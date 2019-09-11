@@ -1,0 +1,8 @@
+Button press - every time you enter or leave the bathroom (maybe fingerprint recognition)
+Send a push to the app with how long you were in there and the time/date.
+Track it day to day. Give you averages over the month.
+Idea: Use Amazon push button source: https://blog.cloudstitch.com/how-i-hacked-amazon-s-5-wifi-button-to-track-baby-data-794214b0bdd8
+
+Advanced: Use a camera and facial recognition
+Advanced: Track how many times you brushed your teeth
+Advanced: Track how long you brushed your teeth
